@@ -43,3 +43,10 @@ $ feathers help                           # Show all commands
 ## Help
 
 For more information on all the things you can do with Feathers visit [docs.feathersjs.com](http://docs.feathersjs.com).
+
+
+What I learnt?
+1. Learnt making server by Feathers framework.
+2. Created a new data model VEHICLE by feathers.
+3. Understood the advantages of Feathers over other servers.
+4. Understood the code flow in Feathers.
